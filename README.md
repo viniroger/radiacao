@@ -31,17 +31,17 @@ RESUMO DE PROCEDIMENTOS PARA AS AULAS
 
 A atividades foram programadas para durarem de 30 a 40 minutos:
 
-- 1 LEI DE PLANCK - [atividade01](https://github.com/viniroger/radiacao/blob/master/atividade01)
-- 2 POSIÇÃO DO SOL NO CÉU - [atividade02](https://github.com/viniroger/radiacao/blob/master/atividade02)
-- 3 IRRADIÂNCIA DE CÉU CLARO  - [atividade03](https://github.com/viniroger/radiacao/blob/master/atividade03)
-- 4 POLARIZAÇÃO DO CÉU - [atividade04](https://github.com/viniroger/radiacao/blob/master/atividade04)
-- 5 NUVENS E SEGMENTAÇÃO DE IMAGENS - [atividade05](https://github.com/viniroger/radiacao/blob/master/atividade05)
-- 6 AERONET - [atividade06](https://github.com/viniroger/radiacao/blob/master/atividade06)
-- 7 LINKE TURBIDITY - [atividade07](https://github.com/viniroger/radiacao/blob/master/atividade07)
-- 8 RADIAÇÃO SOLAR EM SUPERFÍCIE INCLINADA - [atividade08](https://github.com/viniroger/radiacao/blob/master/atividade08)
-- 9 SIMULAÇÃO DE SISTEMA PV - [atividade09](https://github.com/viniroger/radiacao/blob/master/atividade09)
-- 10 SIMPLIFIED SOLIS - [atividade10](https://github.com/viniroger/radiacao/blob/master/atividade10)
-- 11 MODELO DE TRANSFERÊNCIA RADIATIVA E COMENTÁRIOS DA AVALIAÇÃO - [atividade11](https://github.com/viniroger/radiacao/blob/master/atividade11)
+- 1 LEI DE PLANCK - [atividade01](https://github.com/viniroger/radiacao/blob/master/atividade01/index.md)
+- 2 POSIÇÃO DO SOL NO CÉU - [atividade02](https://github.com/viniroger/radiacao/blob/master/atividade02/index.md)
+- 3 IRRADIÂNCIA DE CÉU CLARO  - [atividade03](https://github.com/viniroger/radiacao/blob/master/atividade03/index.md)
+- 4 POLARIZAÇÃO DO CÉU - [atividade04](https://github.com/viniroger/radiacao/blob/master/atividade04/index.md)
+- 5 NUVENS E SEGMENTAÇÃO DE IMAGENS - [atividade05](https://github.com/viniroger/radiacao/blob/master/atividade05/index.md)
+- 6 AERONET - [atividade06](https://github.com/viniroger/radiacao/blob/master/atividade06/index.md)
+- 7 LINKE TURBIDITY - [atividade07](https://github.com/viniroger/radiacao/blob/master/atividade07/index.md)
+- 8 RADIAÇÃO SOLAR EM SUPERFÍCIE INCLINADA - [atividade08](https://github.com/viniroger/radiacao/blob/master/atividade08/index.md)
+- 9 SIMULAÇÃO DE SISTEMA PV - [atividade09](https://github.com/viniroger/radiacao/blob/master/atividade09/index.md)
+- 10 SIMPLIFIED SOLIS - [atividade10](https://github.com/viniroger/radiacao/blob/master/atividade10/index.md)
+- 11 MODELO DE TRANSFERÊNCIA RADIATIVA E COMENTÁRIOS DA AVALIAÇÃO - [atividade11](https://github.com/viniroger/radiacao/blob/master/atividade11/index.md)
 
 Obs. 1: Seminário [Variabilidade do recurso solar](https://www.monolitonimbus.com.br/palestra-sobre-variabilidade-do-recurso-solar-na-usp/) dado para complementar as atividades práticas com um pouco mais de teoria.
 
