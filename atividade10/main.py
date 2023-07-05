@@ -32,6 +32,7 @@ def clear_sky(loc, times):
   # an input is a Series, so solis is a DataFrame
   solis = pvlib.clearsky.simplified_solis(apparent_elevation, aod700, precipitable_water, pressure, dni_extra)
   ax = solis.plot(linestyle=':', marker='o')
+  ax.grid()
   ax.set_ylabel('Irradiance $W/m^2$')
   ax.set_title(f'Simplified Solis Clear Sky Model - {day_str}')
   ax.legend(loc=2);
